@@ -1,0 +1,376 @@
+ElectradaSiteID,DepotName,Client,Program_Type,VehicleClass,State,Charger_Count,uptime_pct,OpenTickets,FleetSize,OperationalStatus,avg_annual_miles_per_vehicle,pct_offpeak_charging,DateLogged
+ELC-1190,Houston Logistics Center,Ferguson Enterprises,360 CaaS,Light-Duty,TX,12,89.5,7,34,Online,18657,58,06/30/2026
+ELC-1191,Dallas Distribution Center,P&G,FleetFlex,Class 8,TX,20,99.7,1,52,Online,77821,80,06/30/2026
+ELC-1192,Cincinnati HQ Depot,Electrada Corporate,360 CaaS,Light-Duty,OH,6,98.8,0,14,Online,15812,69,06/30/2026
+ELC-1193,Nashville Comcast Service Center,Comcast,FleetFlex,Light-Duty,TN,9,93,3,21,Online,15763,63,06/30/2026
+ELC-1194,Vanderbilt Campus Charging Hub,Vanderbilt University,360 CaaS,Passenger,TN,10,95.4,2,19,Online,12372,81,06/30/2026
+ELC-1195,Columbus Ohio DOT Yard,Ohio Department of Transportation,FleetFlip,Passenger,OH,5,97,1,12,Maintenance,11181,62,06/30/2026
+ELC-1196,Charlotte Depot North Yard,Salem Leasing Corporation,FleetFlex,Light-Duty,NC,6,97.3,1,15,Online,24353,74,06/30/2026
+ELC-1197,Memphis Freight Yard,FedEx Ground,360 CaaS,Class 8,TN,25,99.2,1,60,Online,76717,66,06/30/2026
+ELC-1198,Holman Fleet Pilot Site,Ferguson / Holman Pilot Program,360 CaaS,Light-Duty,VA,7,91.7,4,16,Online,16688,67,06/30/2026
+ELC-1199,Duke Energy Electrification Center,Duke Energy,FleetFlex,Mixed,NC,30,98.9,0,75,Online,21101,24,06/30/2026
+ELC-1200,Arlington Service Yard,Arlington Grocery Supply,360 CaaS,Light-Duty,VA,13,97.2,1,50,Online,16637,61,06/30/2026
+ELC-1201,Trenton Logistics Yard,Trenton Auto Parts Distribution,FleetFlip,Rideshare/Passenger,NJ,23,81.9,10,69,Online,41899,38,06/30/2026
+ELC-1202,Annapolis Distribution Center,Annapolis Parcel Delivery,FleetFlip,Light-Duty,MD,13,95.8,0,39,Online,24409,66,06/30/2026
+ELC-1203,Toledo Lot,Toledo Regional Grocery Chain,FleetFlex,Passenger,OH,27,93.5,2,56,Online,11862,74,06/30/2026
+ELC-1204,St. Paul Service Yard,St. Paul Beverage Co.,FleetFlex,Rideshare/Passenger,MN,23,99.9,0,44,Online,42215,25,06/30/2026
+ELC-1205,Aurora Distribution Center,Aurora Waste & Recycling,FleetFlex,Mixed,CO,30,97.7,0,120,Online,26631,23,06/30/2026
+ELC-1206,New Orleans Fleet Yard,New Orleans Freight Lines,FleetFlip,Light-Duty,LA,5,92.2,4,8,Online,24632,82,06/30/2026
+ELC-1207,Boston Charging Center,Boston Telecom Services,360 CaaS,Class 8,MA,9,99.9,1,36,Maintenance,42596,69,06/30/2026
+ELC-1208,Phoenix Charging Center,Phoenix Auto Parts Distribution,360 CaaS,Class 8,AZ,17,96.3,2,50,Online,46737,68,06/30/2026
+ELC-1209,Knoxville Logistics Yard,Knoxville Waste & Recycling,FleetFlip,Rideshare/Passenger,TN,4,99.9,2,20,Online,43908,22,06/30/2026
+ELC-1210,Columbia Logistics Yard,Columbia Waste & Recycling,FleetFlip,Light-Duty,SC,13,90.2,5,39,Online,16289,77,06/30/2026
+ELC-1211,Charleston Center,Charleston Construction Supply,FleetFlex,Class 8,SC,30,99.9,3,90,Online,69345,73,06/30/2026
+ELC-1212,Trenton Lot,Trenton Telecom Services,FleetFlip,Mixed,NJ,29,94,3,62,Online,14480,47,06/30/2026
+ELC-1213,Eugene Fleet Yard,Eugene Equipment Rental,FleetFlex,Mixed,OR,20,86.4,5,40,Maintenance,20170,27,06/30/2026
+ELC-1214,Boston Logistics Yard,Boston Waste & Recycling,360 CaaS,Bus/Transit,MA,19,91.1,5,38,Online,35177,88,06/30/2026
+ELC-1215,Madison Fleet Yard,Madison Auto Parts Distribution,360 CaaS,Rideshare/Passenger,WI,26,98.9,1,54,Online,38443,37,06/30/2026
+ELC-1216,Dallas Fleet Yard,Dallas Airport Authority,FleetFlex,Rideshare/Passenger,TX,15,92.7,2,32,Online,39136,39,06/30/2026
+ELC-1217,Madison Distribution Center,Madison Food Service Distribution,FleetFlip,Bus/Transit,WI,6,86.3,8,12,Maintenance,21415,73,06/30/2026
+ELC-1218,Savannah Charging Center,Savannah Parcel Delivery,FleetFlex,Mixed,GA,29,96.2,0,120,Online,27058,43,06/30/2026
+ELC-1219,Birmingham Service Yard,Birmingham Airport Authority,FleetFlex,Passenger,AL,16,99.9,2,32,Online,11728,63,06/30/2026
+ELC-1220,Lexington Depot,Lexington Utility Cooperative,360 CaaS,Passenger,KY,28,92.7,3,112,Online,15912,72,06/30/2026
+ELC-1221,Orlando Charging Hub,Orlando Cold Storage Logistics,FleetFlex,Passenger,FL,34,87.4,7,102,Online,15400,78,06/30/2026
+ELC-1222,Greensboro Depot,Greensboro Healthcare Network,360 CaaS,Light-Duty,NC,24,97.3,3,72,Online,15188,68,06/30/2026
+ELC-1223,Cleveland Distribution Hub,Cleveland Freight Lines,FleetFlip,Light-Duty,OH,13,94.3,3,26,Online,27859,64,06/30/2026
+ELC-1224,Tucson Yard,Tucson Construction Supply,360 CaaS,Rideshare/Passenger,AZ,9,91.8,2,36,Online,31982,23,06/30/2026
+ELC-1225,Montgomery Logistics Center,Montgomery Regional Grocery Chain,360 CaaS,Rideshare/Passenger,AL,11,87.9,6,33,Online,40507,49,06/30/2026
+ELC-1226,Baltimore Depot,Baltimore Courier Services,FleetFlex,Class 8,MD,35,97,2,140,Online,61016,84,06/30/2026
+ELC-1227,Charleston Charging Hub,Charleston Regional Grocery Chain,FleetFlex,Bus/Transit,SC,27,98,3,81,Online,22957,78,06/30/2026
+ELC-1228,Minneapolis Yard,Minneapolis Logistics,FleetFlip,Light-Duty,MN,25,96.8,0,75,Online,18495,81,06/30/2026
+ELC-1229,Minneapolis Fleet Center,Minneapolis Telecom Services,360 CaaS,Mixed,MN,27,94.2,3,81,Online,27625,31,06/30/2026
+ELC-1230,Philadelphia Fleet Center,Philadelphia Telecom Services,FleetFlex,Passenger,PA,7,96,1,21,Online,17151,87,06/30/2026
+ELC-1231,Orlando Service Center,Orlando Cold Storage Logistics,FleetFlex,Light-Duty,FL,25,93.8,4,50,Online,24608,60,06/30/2026
+ELC-1232,New Orleans Depot,New Orleans Healthcare Network,FleetFlip,Rideshare/Passenger,LA,29,95.2,3,87,Online,40566,21,06/30/2026
+ELC-1233,Baton Rouge Charging Hub,Baton Rouge Auto Parts Distribution,360 CaaS,Mixed,LA,9,96.1,2,18,Online,25244,29,06/30/2026
+ELC-1234,Savannah Service Center,Savannah Distribution,FleetFlex,Light-Duty,GA,4,91.6,6,12,Online,19948,66,06/30/2026
+ELC-1235,Detroit Depot,Detroit Telecom Services,360 CaaS,Bus/Transit,MI,7,99.9,1,21,Online,21947,81,06/30/2026
+ELC-1236,Fort Wayne Distribution Hub,Fort Wayne Municipal Fleet Services,360 CaaS,Light-Duty,IN,28,86.4,8,112,Maintenance,21757,61,06/30/2026
+ELC-1237,Toledo Charging Hub,Toledo Grocery Supply,360 CaaS,Mixed,OH,4,90.2,5,12,Online,16993,23,06/30/2026
+ELC-1238,Phoenix Depot,Phoenix School District,FleetFlex,Light-Duty,AZ,21,94.9,1,84,Online,27681,64,06/30/2026
+ELC-1239,Birmingham Service Center,Birmingham Equipment Rental,FleetFlip,Rideshare/Passenger,AL,35,93.3,4,105,Online,26047,18,06/30/2026
+ELC-1240,Los Angeles Logistics Center,Los Angeles Cold Storage Logistics,FleetFlip,Rideshare/Passenger,CA,9,94.4,5,36,Online,40936,21,06/30/2026
+ELC-1241,Springfield Logistics Center,Springfield Food Service Distribution,FleetFlip,Bus/Transit,IL,34,98.7,1,136,Online,25951,65,06/30/2026
+ELC-1242,St. Paul Fleet Center,St. Paul Courier Services,FleetFlex,Bus/Transit,MN,21,97,2,63,Online,31522,76,06/30/2026
+ELC-1243,Salt Lake City Charging Hub,Salt Lake City School District,FleetFlip,Passenger,UT,31,92.7,6,62,Online,14929,69,06/30/2026
+ELC-1244,Baton Rouge Logistics Center,Baton Rouge Equipment Rental,FleetFlip,Light-Duty,LA,24,95.4,1,96,Maintenance,15692,73,06/30/2026
+ELC-1245,Oklahoma City Fleet Center,Oklahoma City Food Service Distribution,360 CaaS,Passenger,OK,35,99.9,0,105,Online,13971,79,06/30/2026
+ELC-1246,Mesa Fleet Center,Mesa Parcel Delivery,FleetFlex,Rideshare/Passenger,AZ,7,94.3,3,14,Maintenance,25307,42,06/30/2026
+ELC-1247,Jersey City Fleet Center,Jersey City Beverage Co.,FleetFlip,Passenger,NJ,8,92.9,5,16,Online,17250,88,06/30/2026
+ELC-1248,Springfield Fleet Center,Springfield Linen & Uniform Services,FleetFlip,Class 8,IL,16,95.7,0,64,Online,63520,80,06/30/2026
+ELC-1249,Louisville Distribution Hub,Louisville Parcel Delivery,360 CaaS,Bus/Transit,KY,27,97.7,0,54,Online,21339,64,06/30/2026
+ELC-1250,Peoria Fleet Center,Peoria Logistics,FleetFlex,Passenger,IL,5,97.9,1,20,Online,12143,72,06/30/2026
+ELC-1251,Detroit Service Center,Detroit Municipal Fleet Services,FleetFlip,Rideshare/Passenger,MI,12,96.1,0,36,Online,30922,42,06/30/2026
+ELC-1252,Columbus Charging Hub,Columbus Distribution,360 CaaS,Rideshare/Passenger,OH,27,99.9,1,54,Online,28929,23,06/30/2026
+ELC-1253,Buffalo Yard,Buffalo Food Service Distribution,360 CaaS,Mixed,NY,9,91.3,5,36,Online,28921,28,06/30/2026
+ELC-1254,Orlando Logistics Center,Orlando Parcel Delivery,360 CaaS,Light-Duty,FL,20,97.7,0,80,Maintenance,19225,87,06/30/2026
+ELC-1255,Charleston Charging Hub,Charleston Distribution,360 CaaS,Class 8,SC,24,94.8,3,48,Maintenance,59581,83,06/30/2026
+ELC-1256,Louisville Yard,Louisville Courier Services,FleetFlex,Passenger,KY,20,94.3,1,60,Online,11172,55,06/30/2026
+ELC-1257,Jersey City Logistics Center,Jersey City Grocery Supply,360 CaaS,Class 8,NJ,18,98.7,0,36,Maintenance,49159,83,06/30/2026
+ELC-1258,Macon Charging Hub,Macon Logistics,FleetFlip,Light-Duty,GA,32,99.1,0,64,Online,17339,76,06/30/2026
+ELC-1259,Colorado Springs Distribution Hub,Colorado Springs Distribution,360 CaaS,Mixed,CO,32,94.5,4,128,Online,17447,35,06/30/2026
+ELC-1260,Grand Rapids Depot,Grand Rapids Parcel Delivery,360 CaaS,Light-Duty,MI,21,92.7,3,42,Online,22474,85,06/30/2026
+ELC-1261,Savannah Service Center,Savannah Linen & Uniform Services,360 CaaS,Mixed,GA,17,95.4,3,68,Online,19223,30,06/30/2026
+ELC-1262,Jacksonville Charging Hub,Jacksonville Freight Lines,360 CaaS,Class 8,FL,10,92.6,2,20,Online,49460,56,06/30/2026
+ELC-1263,Jersey City Fleet Center,Jersey City Telecom Services,FleetFlip,Class 8,NJ,32,99,0,64,Online,52177,78,06/30/2026
+ELC-1264,Detroit Yard,Detroit Airport Authority,360 CaaS,Passenger,MI,15,98.9,0,30,Online,10649,60,06/30/2026
+ELC-1265,Reno Charging Hub,Reno Freight Lines,360 CaaS,Class 8,NV,12,97.6,3,48,Online,52594,74,06/30/2026
+ELC-1266,Phoenix Service Center,Phoenix Beverage Co.,FleetFlip,Mixed,AZ,30,99.9,2,120,Online,28793,49,06/30/2026
+ELC-1267,Columbus Logistics Center,Columbus Airport Authority,FleetFlex,Class 8,OH,21,90.2,8,42,Online,42403,65,06/30/2026
+ELC-1268,Charleston Service Center,Charleston Food Service Distribution,FleetFlip,Light-Duty,SC,26,92.4,4,104,Online,19009,75,06/30/2026
+ELC-1269,Lexington Fleet Center,Lexington Food Service Distribution,360 CaaS,Passenger,KY,10,95.7,2,40,Online,14345,63,06/30/2026
+ELC-1270,Dallas Depot,Dallas Beverage Co.,360 CaaS,Rideshare/Passenger,TX,15,97.5,1,60,Online,28161,30,06/30/2026
+ELC-1271,Brooklyn Distribution Hub,Brooklyn Auto Parts Distribution,FleetFlip,Rideshare/Passenger,NY,33,98.3,1,132,Online,36491,24,06/30/2026
+ELC-1272,Columbia Depot,Columbia Distribution,FleetFlex,Light-Duty,SC,33,92.4,5,99,Online,17243,69,06/30/2026
+ELC-1273,Salt Lake City Logistics Center,Salt Lake City School District,FleetFlip,Rideshare/Passenger,UT,33,95.7,1,132,Online,37738,44,06/30/2026
+ELC-1274,Milwaukee Fleet Center,Milwaukee Healthcare Network,360 CaaS,Passenger,WI,25,90.7,3,100,Online,17477,75,06/30/2026
+ELC-1275,Tulsa Yard,Tulsa Construction Supply,360 CaaS,Passenger,OK,13,98.5,0,52,Maintenance,13458,55,06/30/2026
+ELC-1276,Miami Distribution Hub,Miami Linen & Uniform Services,360 CaaS,Light-Duty,FL,24,92.5,3,48,Online,27723,84,06/30/2026
+ELC-1277,Minneapolis Charging Hub,Minneapolis Distribution,360 CaaS,Mixed,MN,21,97.5,2,84,Online,28210,20,06/30/2026
+ELC-1278,Milwaukee Service Center,Milwaukee Transit Lines,360 CaaS,Rideshare/Passenger,WI,4,86.8,8,12,Online,30471,25,06/30/2026
+ELC-1279,San Diego Yard,San Diego Linen & Uniform Services,FleetFlex,Light-Duty,CA,33,99,0,132,Online,17030,87,06/30/2026
+ELC-1280,Greensboro Distribution Hub,Greensboro Airport Authority,FleetFlip,Passenger,NC,21,96.4,4,84,Online,15692,69,06/30/2026
+ELC-1281,St. Paul Service Center,St. Paul Grocery Supply,FleetFlip,Mixed,MN,27,97.1,1,81,Online,22829,48,06/30/2026
+ELC-1282,Tulsa Service Center,Tulsa Logistics,360 CaaS,Passenger,OK,18,97.9,1,72,Online,17060,70,06/30/2026
+ELC-1283,Peoria Logistics Center,Peoria Telecom Services,FleetFlex,Passenger,IL,22,98.6,3,44,Online,11298,59,06/30/2026
+ELC-1284,Madison Charging Hub,Madison Municipal Fleet Services,FleetFlip,Light-Duty,WI,28,97.3,0,56,Online,17531,81,06/30/2026
+ELC-1285,Peoria Service Center,Peoria Utility Cooperative,360 CaaS,Mixed,IL,16,93.9,3,64,Online,28745,24,06/30/2026
+ELC-1286,Montgomery Fleet Center,Montgomery Freight Lines,FleetFlip,Mixed,AL,12,94.9,3,36,Online,23157,43,06/30/2026
+ELC-1287,Indianapolis Charging Hub,Indianapolis Airport Authority,FleetFlex,Rideshare/Passenger,IN,11,97.8,0,33,Online,34439,40,06/30/2026
+ELC-1288,Philadelphia Distribution Hub,Philadelphia Healthcare Network,FleetFlip,Rideshare/Passenger,PA,28,95.8,2,112,Online,39550,37,06/30/2026
+ELC-1289,Knoxville Logistics Center,Knoxville School District,FleetFlex,Rideshare/Passenger,TN,28,95.8,1,112,Online,35612,33,06/30/2026
+ELC-1290,Chicago Logistics Center,Chicago Airport Authority,360 CaaS,Light-Duty,IL,7,95,0,21,Maintenance,23822,82,06/30/2026
+ELC-1291,Arlington Charging Hub,Arlington Regional Grocery Chain,FleetFlex,Bus/Transit,VA,33,99.9,3,99,Online,27423,55,06/30/2026
+ELC-1292,Portland Yard,Portland Linen & Uniform Services,360 CaaS,Light-Duty,OR,30,93.1,4,120,Maintenance,21901,86,06/30/2026
+ELC-1293,Tacoma Service Center,Tacoma Auto Parts Distribution,FleetFlip,Passenger,WA,9,98.2,1,18,Online,16766,74,06/30/2026
+ELC-1294,Richmond Fleet Center,Richmond Waste & Recycling,FleetFlip,Passenger,VA,25,99.2,1,75,Online,16686,87,06/30/2026
+ELC-1295,Mesa Depot,Mesa Grocery Supply,FleetFlex,Class 8,AZ,7,86.9,7,28,Online,77346,57,06/30/2026
+ELC-1296,Charleston Charging Hub,Charleston Logistics,360 CaaS,Passenger,SC,4,99.9,3,8,Online,11610,66,06/30/2026
+ELC-1297,Springfield Fleet Center,Springfield Food Service Distribution,FleetFlex,Mixed,MO,13,94,3,52,Online,17381,28,06/30/2026
+ELC-1298,Arlington Logistics Center,Arlington Waste & Recycling,360 CaaS,Light-Duty,VA,8,96.5,1,24,Online,16017,55,06/30/2026
+ELC-1299,Eugene Service Center,Eugene School District,FleetFlip,Class 8,OR,26,99.9,0,78,Online,46517,59,06/30/2026
+ELC-1300,Orlando Depot,Orlando Municipal Fleet Services,FleetFlip,Bus/Transit,FL,5,99.4,1,20,Online,20894,70,06/30/2026
+ELC-1301,Denver Logistics Center,Denver Distribution,360 CaaS,Rideshare/Passenger,CO,15,98.1,1,45,Online,39923,37,06/30/2026
+ELC-1302,Lansing Service Center,Lansing Freight Lines,FleetFlex,Light-Duty,MI,19,93.4,2,76,Online,26661,86,06/30/2026
+ELC-1303,Dallas Service Center,Dallas Beverage Co.,360 CaaS,Class 8,TX,26,91.5,5,78,Online,76800,78,06/30/2026
+ELC-1304,Augusta Service Center,Augusta Construction Supply,FleetFlex,Passenger,GA,29,92.3,3,87,Online,12006,79,06/30/2026
+ELC-1305,Tucson Depot,Tucson Equipment Rental,FleetFlex,Class 8,AZ,31,89.4,4,62,Online,50216,70,06/30/2026
+ELC-1306,Columbia Service Center,Columbia Beverage Co.,360 CaaS,Passenger,SC,12,92.9,4,24,Online,15918,80,06/30/2026
+ELC-1307,Spokane Logistics Center,Spokane Food Service Distribution,360 CaaS,Passenger,WA,34,95.1,2,136,Online,15532,63,06/30/2026
+ELC-1308,Charleston Logistics Center,Charleston Auto Parts Distribution,FleetFlex,Rideshare/Passenger,SC,27,93.5,4,108,Online,29023,50,06/30/2026
+ELC-1309,Dayton Yard,Dayton Freight Lines,FleetFlip,Bus/Transit,OH,5,94.8,2,20,Online,20245,79,06/30/2026
+ELC-1310,Columbia Logistics Center,Columbia Transit Authority,360 CaaS,Passenger,SC,16,95.6,3,64,Maintenance,16213,74,06/30/2026
+ELC-1311,Phoenix Distribution Hub,Phoenix Equipment Rental,360 CaaS,Class 8,AZ,22,93.5,3,44,Online,63324,80,06/30/2026
+ELC-1312,Provo Distribution Hub,Provo Cold Storage Logistics,FleetFlip,Class 8,UT,21,98.3,1,84,Online,70315,70,06/30/2026
+ELC-1313,Provo Fleet Center,Provo Utility Cooperative,FleetFlip,Light-Duty,UT,15,97.8,0,45,Online,18591,57,06/30/2026
+ELC-1314,Seattle Service Center,Seattle Auto Parts Distribution,360 CaaS,Bus/Transit,WA,16,96,0,64,Online,30458,66,06/30/2026
+ELC-1315,Indianapolis Fleet Center,Indianapolis Food Service Distribution,FleetFlex,Mixed,IN,20,94.9,2,60,Online,15015,25,06/30/2026
+ELC-1316,Tulsa Yard,Tulsa Distribution,FleetFlip,Rideshare/Passenger,OK,7,99.9,1,14,Online,36326,23,06/30/2026
+ELC-1317,Lansing Service Center,Lansing Healthcare Network,FleetFlip,Rideshare/Passenger,MI,18,94,4,54,Online,39501,39,06/30/2026
+ELC-1318,Charleston Yard,Charleston Yard Services,360 CaaS,Mixed,SC,17,93.2,5,34,Online,26513,34,06/30/2026
+ELC-1319,Memphis Yard,Memphis Cold Storage Logistics,360 CaaS,Rideshare/Passenger,TN,20,97.9,1,40,Maintenance,36378,44,06/30/2026
+ELC-1320,Cincinnati Yard,Cincinnati Cold Storage Logistics,FleetFlex,Class 8,OH,12,94.6,2,36,Online,73776,83,06/30/2026
+ELC-1321,Greensboro Service Center,Greensboro Equipment Rental,360 CaaS,Mixed,NC,13,93,4,52,Online,28359,25,06/30/2026
+ELC-1322,Annapolis Depot,Annapolis Transit Authority,FleetFlip,Mixed,MD,13,94,2,39,Online,19740,18,06/30/2026
+ELC-1323,Jacksonville Charging Hub,Jacksonville Grocery Supply,360 CaaS,Light-Duty,FL,21,93,2,63,Online,22340,62,06/30/2026
+ELC-1324,Knoxville Logistics Center,Knoxville Municipal Fleet Services,FleetFlex,Rideshare/Passenger,TN,27,94.7,1,54,Online,27751,39,06/30/2026
+ELC-1325,Montgomery Fleet Center,Montgomery Waste & Recycling,FleetFlip,Bus/Transit,AL,31,98.5,1,93,Online,20136,77,06/30/2026
+ELC-1326,Boston Logistics Center,Boston Cold Storage Logistics,FleetFlex,Mixed,MA,20,95.7,2,80,Online,28755,27,06/30/2026
+ELC-1327,Philadelphia Logistics Center,Philadelphia Transit Authority,FleetFlip,Rideshare/Passenger,PA,14,94.7,4,28,Online,35704,42,06/30/2026
+ELC-1328,Knoxville Depot,Knoxville Telecom Services,360 CaaS,Passenger,TN,12,93.1,3,36,Online,14643,80,06/30/2026
+ELC-1329,Las Vegas Service Center,Las Vegas Grocery Supply,FleetFlex,Bus/Transit,NV,35,96.9,2,140,Online,29521,60,06/30/2026
+ELC-1330,Raleigh Yard,Raleigh Transit Authority,360 CaaS,Bus/Transit,NC,29,95.8,0,87,Online,26102,55,06/30/2026
+ELC-1331,San Diego Fleet Center,San Diego Linen & Uniform Services,FleetFlex,Class 8,CA,22,96.7,1,44,Online,67604,76,06/30/2026
+ELC-1332,Toledo Fleet Center,Toledo Logistics,FleetFlip,Class 8,OH,14,95.4,3,56,Online,70725,60,06/30/2026
+ELC-1333,Annapolis Fleet Center,Annapolis Linen & Uniform Services,FleetFlex,Bus/Transit,MD,13,97.2,1,39,Maintenance,33289,58,06/30/2026
+ELC-1334,Montgomery Logistics Center,Montgomery Auto Parts Distribution,FleetFlip,Passenger,AL,30,99.4,2,120,Online,14345,56,06/30/2026
+ELC-1335,Salt Lake City Charging Hub,Salt Lake City Parcel Delivery,FleetFlip,Mixed,UT,32,96.6,3,128,Online,21095,44,06/30/2026
+ELC-1336,Orlando Depot,Orlando Food Service Distribution,FleetFlex,Bus/Transit,FL,20,97.4,2,40,Online,34125,71,06/30/2026
+ELC-1337,Minneapolis Fleet Center,Minneapolis Grocery Supply,FleetFlip,Mixed,MN,20,99.2,1,80,Online,18711,25,06/30/2026
+ELC-1338,Birmingham Logistics Center,Birmingham Logistics Authority,FleetFlip,Light-Duty,AL,32,99.1,0,128,Online,25266,87,06/30/2026
+ELC-1339,Macon Logistics Center,Macon Regional Grocery Chain,FleetFlex,Rideshare/Passenger,GA,14,99.9,2,28,Online,29482,41,06/30/2026
+ELC-1340,Louisville Depot,Louisville Healthcare Network,360 CaaS,Light-Duty,KY,27,99.9,1,54,Online,17221,82,06/30/2026
+ELC-1341,Boston Yard,Boston Auto Parts Distribution,360 CaaS,Rideshare/Passenger,MA,11,97.8,0,44,Online,36186,18,06/30/2026
+ELC-1342,Tulsa Service Center,Tulsa Waste & Recycling,360 CaaS,Passenger,OK,26,95.6,2,104,Online,12681,62,06/30/2026
+ELC-1343,Bakersfield Logistics Center,Bakersfield Parcel Delivery,FleetFlex,Passenger,CA,16,95,3,64,Online,13603,62,06/30/2026
+ELC-1344,New Orleans Charging Hub,New Orleans Courier Services,360 CaaS,Light-Duty,LA,20,98,2,60,Online,17363,71,06/30/2026
+ELC-1345,Annapolis Distribution Hub,Annapolis Municipal Fleet Services,360 CaaS,Light-Duty,MD,25,98.8,0,50,Online,15518,57,06/30/2026
+ELC-1346,Cincinnati Distribution Hub,Cincinnati Auto Parts Distribution,FleetFlip,Mixed,OH,29,99.7,0,116,Online,29303,22,06/30/2026
+ELC-1347,Tampa Yard,Tampa Linen & Uniform Services,360 CaaS,Passenger,FL,12,89.1,6,48,Online,16710,78,06/30/2026
+ELC-1348,Montgomery Service Center,Montgomery Telecom Services,FleetFlip,Bus/Transit,AL,28,99.6,1,84,Online,20336,70,06/30/2026
+ELC-1349,Jersey City Depot,Jersey City Distribution,FleetFlip,Class 8,NJ,13,95.5,3,39,Online,57174,77,06/30/2026
+ELC-1350,Indianapolis Logistics Center,Indianapolis Distribution,FleetFlip,Light-Duty,IN,16,97.1,0,64,Online,27993,70,06/30/2026
+ELC-1351,Salt Lake City Logistics Center,Salt Lake City Regional Grocery Chain,360 CaaS,Passenger,UT,25,92.1,3,100,Online,12008,77,06/30/2026
+ELC-1352,Provo Yard,Provo Telecom Services,360 CaaS,Mixed,UT,25,93,5,75,Online,18847,40,06/30/2026
+ELC-1353,Raleigh Fleet Center,Raleigh Grocery Supply,360 CaaS,Mixed,NC,33,89.8,8,99,Online,19954,28,06/30/2026
+ELC-1354,Indianapolis Service Center,Indianapolis School District,FleetFlex,Mixed,IN,23,96.1,1,92,Maintenance,18116,23,06/30/2026
+ELC-1355,Indianapolis Charging Hub,Indianapolis Equipment Rental,FleetFlip,Passenger,IN,33,99.9,0,99,Maintenance,15908,59,06/30/2026
+ELC-1356,Tulsa Charging Hub,Tulsa Telecom Services,360 CaaS,Passenger,OK,20,91.6,5,80,Online,11788,58,06/30/2026
+ELC-1357,Tacoma Depot,Tacoma Grocery Supply,FleetFlip,Passenger,WA,10,94.9,2,20,Online,14923,58,06/30/2026
+ELC-1358,Columbus Charging Hub,Columbus Food Service Distribution,FleetFlex,Mixed,OH,12,99.2,0,48,Online,15451,31,06/30/2026
+ELC-1359,Springfield Service Center,Springfield Logistics,FleetFlip,Bus/Transit,IL,29,95.4,1,116,Online,20941,81,06/30/2026
+ELC-1360,New Orleans Distribution Hub,New Orleans Beverage Co.,FleetFlip,Rideshare/Passenger,LA,25,97.3,3,75,Online,25445,19,06/30/2026
+ELC-1361,Worcester Charging Hub,Worcester Food Service Distribution,FleetFlip,Passenger,MA,7,85.5,7,21,Online,12696,65,06/30/2026
+ELC-1362,Columbus Fleet Center,Columbus School District,360 CaaS,Class 8,OH,9,94,1,27,Online,76372,64,06/30/2026
+ELC-1363,Eugene Depot,Eugene Parcel Delivery,FleetFlip,Rideshare/Passenger,OR,20,98.8,0,80,Online,35133,47,06/30/2026
+ELC-1364,Annapolis Logistics Center,Annapolis Utility Cooperative,FleetFlip,Rideshare/Passenger,MD,21,96,2,63,Online,36878,27,06/30/2026
+ELC-1365,Minneapolis Fleet Center,Minneapolis Healthcare Network,360 CaaS,Light-Duty,MN,12,95.3,1,24,Online,24097,66,06/30/2026
+ELC-1366,Rochester Service Center,Rochester Utility Cooperative,FleetFlip,Class 8,NY,15,98.3,3,30,Online,55898,83,06/30/2026
+ELC-1367,Provo Logistics Center,Provo Grocery Supply,FleetFlip,Passenger,UT,28,90.4,5,84,Online,10883,55,06/30/2026
+ELC-1368,Toledo Charging Hub,Toledo Regional Grocery Chain,FleetFlex,Light-Duty,OH,18,91.8,5,54,Maintenance,18671,56,06/30/2026
+ELC-1369,Brooklyn Service Center,Brooklyn Freight Lines,FleetFlip,Bus/Transit,NY,19,94.8,3,38,Online,26973,72,06/30/2026
+ELC-1370,Philadelphia Yard,Philadelphia Grocery Supply,FleetFlip,Class 8,PA,34,99.9,1,102,Maintenance,59666,73,06/30/2026
+ELC-1371,Cleveland Fleet Center,Cleveland Logistics,FleetFlex,Class 8,OH,14,90.7,5,42,Online,53898,58,06/30/2026
+ELC-1372,Las Vegas Logistics Center,Las Vegas Utility Cooperative,360 CaaS,Bus/Transit,NV,15,94.4,1,45,Online,22489,55,06/30/2026
+ELC-1373,Greensboro Distribution Hub,Greensboro School District,FleetFlip,Mixed,NC,26,96.8,0,52,Online,21507,23,06/30/2026
+ELC-1374,Grand Rapids Yard,Grand Rapids Cold Storage Logistics,FleetFlip,Mixed,MI,29,99.9,0,58,Online,25278,18,06/30/2026
+ELC-1375,Sacramento Depot,Sacramento Linen & Uniform Services,FleetFlip,Class 8,CA,31,88.6,4,124,Online,60741,59,06/30/2026
+ELC-1376,Las Vegas Charging Hub,Las Vegas Waste & Recycling,FleetFlex,Class 8,NV,31,96.8,0,124,Online,72815,62,06/30/2026
+ELC-1377,Norfolk Service Center,Norfolk Courier Services,360 CaaS,Passenger,VA,17,95.7,3,34,Online,11451,55,06/30/2026
+ELC-1378,Buffalo Service Center,Buffalo Beverage Co.,360 CaaS,Class 8,NY,7,93.7,3,21,Online,42713,84,06/30/2026
+ELC-1379,Annapolis Distribution Hub,Annapolis Construction Supply,FleetFlex,Mixed,MD,30,98,1,120,Online,20214,44,06/30/2026
+ELC-1380,Seattle Service Center,Seattle Healthcare Network,FleetFlex,Bus/Transit,WA,13,97.8,3,26,Online,30009,79,06/30/2026
+ELC-1381,Denver Charging Hub,Denver Regional Grocery Chain,360 CaaS,Light-Duty,CO,6,93.8,5,24,Online,20314,83,06/30/2026
+ELC-1382,Annapolis Fleet Center,Annapolis Municipal Fleet Services,FleetFlip,Light-Duty,MD,34,94.5,3,136,Online,18840,79,06/30/2026
+ELC-1383,Miami Fleet Center,Miami Healthcare Network,FleetFlip,Passenger,FL,24,89.3,7,48,Online,11828,71,06/30/2026
+ELC-1384,Albany Fleet Center,Albany Utility Cooperative,FleetFlip,Rideshare/Passenger,NY,34,84.5,9,68,Maintenance,42168,31,06/30/2026
+ELC-1385,Richmond Distribution Hub,Richmond Utility Cooperative,360 CaaS,Mixed,VA,15,89.5,6,30,Online,25494,20,06/30/2026
+ELC-1386,Springfield Charging Hub,Springfield Utility Cooperative,FleetFlex,Light-Duty,IL,30,99.5,2,60,Online,23562,88,06/30/2026
+ELC-1387,Philadelphia Charging Hub,Philadelphia Regional Grocery Chain,360 CaaS,Passenger,PA,29,99.3,0,87,Maintenance,13680,85,06/30/2026
+ELC-1388,Birmingham Fleet Center,Birmingham Linen & Uniform Services,360 CaaS,Light-Duty,AL,12,93,3,24,Online,21244,71,06/30/2026
+ELC-1389,Fort Worth Service Center,Fort Worth Grocery Supply,360 CaaS,Rideshare/Passenger,TX,20,99.9,1,40,Online,42847,35,06/30/2026
+ELC-1390,Worcester Distribution Hub,Worcester Freight Lines,360 CaaS,Passenger,MA,32,99.9,0,64,Online,12379,78,06/30/2026
+ELC-1391,Boston Distribution Hub,Boston Municipal Fleet Services,FleetFlex,Passenger,MA,6,98.7,3,24,Online,15309,71,06/30/2026
+ELC-1392,Orlando Charging Hub,Orlando Healthcare Network,FleetFlip,Class 8,FL,16,98.8,0,64,Online,61590,59,06/30/2026
+ELC-1393,Toledo Charging Hub,Toledo Healthcare Network,FleetFlex,Rideshare/Passenger,OH,30,94.9,2,90,Maintenance,25838,24,06/30/2026
+ELC-1394,Fort Wayne Distribution Hub,Fort Wayne Municipal Fleet Services,FleetFlip,Bus/Transit,IN,30,97.1,0,60,Online,28385,55,06/30/2026
+ELC-1395,Portland Service Center,Portland Grocery Supply,FleetFlex,Rideshare/Passenger,OR,6,94.8,1,24,Online,37697,47,06/30/2026
+ELC-1396,Atlanta Depot,Atlanta Parcel Delivery,360 CaaS,Rideshare/Passenger,GA,4,97.2,0,8,Online,31548,39,06/30/2026
+ELC-1397,Kansas City Distribution Hub,Kansas City Construction Supply,FleetFlip,Mixed,MO,30,97.3,2,120,Online,15820,27,06/30/2026
+ELC-1398,Springfield Distribution Hub,Springfield Grocery Supply,FleetFlip,Light-Duty,IL,15,99,2,45,Online,25878,74,06/30/2026
+ELC-1399,Annapolis Logistics Center,Annapolis Linen & Uniform Services,FleetFlex,Mixed,MD,7,96.9,2,21,Online,28139,45,06/30/2026
+ELC-1400,Provo Charging Hub,Provo Equipment Rental,360 CaaS,Class 8,UT,7,98,2,21,Online,49259,78,06/30/2026
+ELC-1401,Worcester Fleet Center,Worcester Grocery Supply,FleetFlex,Mixed,MA,7,99.9,2,28,Online,21699,38,06/30/2026
+ELC-1402,Fresno Distribution Hub,Fresno Parcel Delivery,FleetFlex,Passenger,CA,16,95,2,64,Online,13644,68,06/30/2026
+ELC-1403,Las Vegas Depot,Las Vegas Distribution,360 CaaS,Bus/Transit,NV,11,89,5,22,Online,29769,86,06/30/2026
+ELC-1404,Nashville Yard,Nashville Construction Supply,FleetFlip,Class 8,TN,35,96.7,3,140,Online,50417,64,06/30/2026
+ELC-1405,Louisville Depot,Louisville Linen & Uniform Services,360 CaaS,Bus/Transit,KY,10,99.2,3,20,Online,23666,71,06/30/2026
+ELC-1406,Charleston Service Center,Charleston Regional Grocery Chain,FleetFlex,Class 8,SC,7,96.9,2,14,Online,55248,75,06/30/2026
+ELC-1407,Columbia Charging Hub,Columbia Equipment Rental,FleetFlex,Passenger,SC,17,94.7,2,34,Maintenance,13207,57,06/30/2026
+ELC-1408,Springfield Charging Hub,Springfield School District,FleetFlip,Passenger,IL,18,93.3,3,36,Online,13521,76,06/30/2026
+ELC-1409,Eugene Charging Hub,Eugene Waste & Recycling,360 CaaS,Passenger,OR,11,93,3,44,Maintenance,14311,59,06/30/2026
+ELC-1410,Philadelphia Fleet Center,Philadelphia Utility Cooperative,360 CaaS,Bus/Transit,PA,9,97.6,0,27,Online,21448,67,06/30/2026
+ELC-1411,Durham Depot,Durham Freight Lines,360 CaaS,Rideshare/Passenger,NC,23,97.5,3,46,Online,36281,30,06/30/2026
+ELC-1412,Greensboro Depot,Greensboro Distribution,360 CaaS,Passenger,NC,26,93,3,104,Online,16815,74,06/30/2026
+ELC-1413,New Orleans Distribution Hub,New Orleans Construction Supply,FleetFlex,Light-Duty,LA,11,96.1,0,22,Online,15552,57,06/30/2026
+ELC-1414,Arlington Charging Hub,Arlington Waste & Recycling,FleetFlex,Mixed,VA,12,90.5,7,24,Online,17685,41,06/30/2026
+ELC-1415,Nashville Depot,Nashville Telecom Services,360 CaaS,Mixed,TN,34,98.2,2,102,Online,29402,33,06/30/2026
+ELC-1416,Savannah Fleet Center,Savannah Courier Services,FleetFlex,Rideshare/Passenger,GA,11,94.4,2,44,Online,37022,30,06/30/2026
+ELC-1417,Philadelphia Fleet Center,Philadelphia Builders Supply,360 CaaS,Class 8,PA,19,97.6,0,76,Online,46225,55,06/30/2026
+ELC-1418,Atlanta Service Center,Atlanta Courier Services,FleetFlip,Rideshare/Passenger,GA,17,95.3,2,34,Online,38893,43,06/30/2026
+ELC-1419,Milwaukee Yard,Milwaukee Equipment Rental,FleetFlip,Light-Duty,WI,9,92.6,3,36,Online,24753,87,06/30/2026
+ELC-1420,Columbia Yard,Columbia Parcel Delivery,360 CaaS,Rideshare/Passenger,SC,25,95.8,1,100,Online,34948,39,06/30/2026
+ELC-1421,Toledo Depot,Toledo Food Service Distribution,360 CaaS,Light-Duty,OH,24,95.8,0,72,Online,27920,70,06/30/2026
+ELC-1422,Raleigh Depot,Raleigh School District,FleetFlex,Class 8,NC,17,96.5,2,51,Online,71439,57,06/30/2026
+ELC-1423,Springfield Depot,Springfield Telecom Services,360 CaaS,Rideshare/Passenger,MO,8,99.2,2,16,Online,36980,44,06/30/2026
+ELC-1424,Cleveland Charging Hub,Cleveland Food Service Distribution,360 CaaS,Bus/Transit,OH,35,98.7,2,105,Maintenance,33638,65,06/30/2026
+ELC-1425,Grand Rapids Logistics Center,Grand Rapids Cold Storage Logistics,FleetFlip,Passenger,MI,11,98.7,1,22,Maintenance,12064,69,06/30/2026
+ELC-1426,Denver Depot,Denver Food Service Distribution,FleetFlex,Rideshare/Passenger,CO,19,99.9,0,76,Online,37937,39,06/30/2026
+ELC-1427,Tulsa Logistics Center,Tulsa Healthcare Network,360 CaaS,Class 8,OK,25,91.5,4,100,Online,59972,55,06/30/2026
+ELC-1428,Philadelphia Fleet Center,Philadelphia Auto Parts Distribution,360 CaaS,Light-Duty,PA,34,92.9,2,102,Online,16361,77,06/30/2026
+ELC-1429,Tacoma Yard,Tacoma Auto Parts Distribution,360 CaaS,Passenger,WA,25,97.9,0,50,Maintenance,17287,83,06/30/2026
+ELC-1430,Lansing Service Center,Lansing Construction Supply,360 CaaS,Light-Duty,MI,17,95.4,2,34,Online,20937,65,06/30/2026
+ELC-1431,Aurora Fleet Center,Aurora Auto Parts Distribution,FleetFlex,Passenger,CO,35,95.7,2,105,Maintenance,14969,67,06/30/2026
+ELC-1432,Salt Lake City Logistics Center,Salt Lake City Healthcare Network,FleetFlip,Light-Duty,UT,4,99,2,8,Online,19109,77,06/30/2026
+ELC-1433,Portland Service Center,Portland Construction Supply,FleetFlip,Rideshare/Passenger,OR,28,93.6,3,56,Maintenance,38632,22,06/30/2026
+ELC-1434,Arlington Fleet Center,Arlington Telecom Services,FleetFlex,Passenger,VA,22,92.3,3,88,Online,15542,58,06/30/2026
+ELC-1435,Worcester Charging Hub,Worcester Courier Services,FleetFlex,Mixed,MA,5,99.9,0,10,Online,24132,42,06/30/2026
+ELC-1436,Trenton Service Center,Trenton Linen & Uniform Services,360 CaaS,Mixed,NJ,33,99.1,1,66,Online,18074,50,06/30/2026
+ELC-1437,Oakland Service Center,Oakland Transit Authority,FleetFlip,Rideshare/Passenger,CA,21,96.4,0,84,Online,42835,19,06/30/2026
+ELC-1438,Lansing Service Center,Lansing Airport Authority,FleetFlip,Light-Duty,MI,28,86.4,7,84,Online,17652,86,06/30/2026
+ELC-1439,Oklahoma City Depot,Oklahoma City Construction Supply,FleetFlex,Class 8,OK,16,98.1,2,64,Online,60185,88,06/30/2026
+ELC-1440,Knoxville Service Center,Knoxville Distribution,FleetFlip,Passenger,TN,28,95.7,0,112,Online,11616,75,06/30/2026
+ELC-1441,Worcester Distribution Hub,Worcester Healthcare Network,360 CaaS,Mixed,MA,20,93,4,60,Online,22742,35,06/30/2026
+ELC-1442,Savannah Service Center,Savannah Auto Parts Distribution,FleetFlex,Rideshare/Passenger,GA,30,92.4,6,90,Online,42553,48,06/30/2026
+ELC-1443,Eugene Fleet Center,Eugene Beverage Co.,FleetFlex,Bus/Transit,OR,27,90.3,4,108,Maintenance,24724,62,06/30/2026
+ELC-1444,Albany Depot,Albany Logistics,360 CaaS,Rideshare/Passenger,NY,23,91.3,4,69,Maintenance,28158,44,06/30/2026
+ELC-1445,Oklahoma City Charging Hub,Oklahoma City Equipment Rental,360 CaaS,Mixed,OK,15,99.9,2,60,Online,27691,43,06/30/2026
+ELC-1446,Spokane Yard,Spokane Telecom Services,FleetFlex,Bus/Transit,WA,35,97.1,0,70,Online,32053,88,06/30/2026
+ELC-1447,Lansing Distribution Hub,Lansing Equipment Rental,360 CaaS,Class 8,MI,25,93.2,4,100,Online,72907,55,06/30/2026
+ELC-1448,Salt Lake City Logistics Center,Salt Lake City Food Service Distribution,FleetFlex,Bus/Transit,UT,17,95.2,1,68,Online,22476,69,06/30/2026
+ELC-1449,Portland Charging Hub,Portland Linen & Uniform Services,360 CaaS,Passenger,OR,6,94.7,1,24,Maintenance,17198,73,06/30/2026
+ELC-1450,Durham Yard,Durham Auto Parts Distribution,FleetFlex,Mixed,NC,8,96.6,0,32,Online,20066,24,06/30/2026
+ELC-1451,Miami Service Center,Miami Utility Cooperative,360 CaaS,Mixed,FL,8,91.4,4,16,Online,15056,47,06/30/2026
+ELC-1452,Minneapolis Depot,Minneapolis Municipal Fleet Services,FleetFlex,Rideshare/Passenger,MN,7,99.6,1,28,Online,40321,25,06/30/2026
+ELC-1453,Kansas City Yard,Kansas City Equipment Rental,FleetFlip,Passenger,MO,25,95.3,2,100,Online,16500,68,06/30/2026
+ELC-1454,Allentown Service Center,Allentown Construction Supply,FleetFlip,Light-Duty,PA,18,95.5,4,72,Online,25322,72,06/30/2026
+ELC-1455,Birmingham Distribution Hub,Birmingham Food Service Distribution,360 CaaS,Bus/Transit,AL,28,94.7,3,112,Maintenance,30923,58,06/30/2026
+ELC-1456,Baton Rouge Charging Hub,Baton Rouge Construction Supply,FleetFlex,Mixed,LA,20,99.5,0,40,Online,25120,47,06/30/2026
+ELC-1457,Tucson Yard,Tucson Auto Parts Distribution,360 CaaS,Light-Duty,AZ,29,97.1,2,58,Online,27058,88,06/30/2026
+ELC-1458,San Antonio Service Center,San Antonio Grocery Supply,FleetFlip,Mixed,TX,16,96.1,1,64,Online,27880,19,06/30/2026
+ELC-1459,Boston Charging Hub,Boston Beverage Co.,FleetFlex,Class 8,MA,30,93.5,1,60,Online,75241,71,06/30/2026
+ELC-1460,Annapolis Charging Hub,Annapolis Cold Storage Logistics,360 CaaS,Rideshare/Passenger,MD,24,98.9,2,48,Online,38795,19,06/30/2026
+ELC-1461,Baton Rouge Distribution Hub,Baton Rouge Waste & Recycling,FleetFlex,Light-Duty,LA,13,96.7,0,39,Online,16355,76,06/30/2026
+ELC-1462,Baton Rouge Yard,Baton Rouge Courier Services,360 CaaS,Light-Duty,LA,20,94.8,2,60,Online,19559,88,06/30/2026
+ELC-1463,Lansing Yard,Lansing Healthcare Network,360 CaaS,Bus/Transit,MI,12,97.9,4,24,Online,29590,79,06/30/2026
+ELC-1464,Houston Service Center,Houston Beverage Co.,FleetFlex,Light-Duty,TX,17,99.7,0,34,Online,24168,84,06/30/2026
+ELC-1465,Springfield Depot,Springfield Grocery Supply,360 CaaS,Class 8,MO,17,93.9,5,51,Online,78746,63,06/30/2026
+ELC-1466,Tucson Distribution Hub,Tucson Municipal Fleet Services,FleetFlip,Rideshare/Passenger,AZ,32,94.2,0,128,Online,38114,33,06/30/2026
+ELC-1467,Charleston Depot,Charleston Courier Services,FleetFlip,Class 8,SC,11,91.8,3,33,Online,55636,69,06/30/2026
+ELC-1468,San Antonio Depot,San Antonio Food Service Distribution,FleetFlip,Class 8,TX,6,97.3,1,12,Online,43190,80,06/30/2026
+ELC-1469,Denver Distribution Hub,Denver Regional Grocery Chain,360 CaaS,Rideshare/Passenger,CO,30,99.4,0,90,Online,40690,24,06/30/2026
+ELC-1470,Louisville Distribution Hub,Louisville Transit Authority,360 CaaS,Rideshare/Passenger,KY,14,93.2,5,56,Online,27363,19,06/30/2026
+ELC-1471,Baltimore Fleet Center,Baltimore Linen & Uniform Services,FleetFlip,Rideshare/Passenger,MD,8,92.8,4,32,Online,34534,47,06/30/2026
+ELC-1472,Spokane Charging Hub,Spokane Logistics,FleetFlip,Mixed,WA,17,99.9,1,51,Online,27051,31,06/30/2026
+ELC-1473,Eugene Charging Hub,Eugene Waste & Recycling,FleetFlip,Light-Duty,OR,26,97,2,104,Online,16661,60,06/30/2026
+ELC-1474,Tampa Depot,Tampa Equipment Rental,FleetFlex,Passenger,FL,13,91.7,4,39,Online,10614,57,06/30/2026
+ELC-1475,Savannah Yard,Savannah Linen & Uniform Services,FleetFlex,Bus/Transit,GA,30,96.9,0,120,Online,32004,60,06/30/2026
+ELC-1476,Boston Depot,Boston Distribution,FleetFlip,Mixed,MA,5,96.2,3,15,Online,25137,36,06/30/2026
+ELC-1477,Trenton Depot,Trenton School District,FleetFlex,Passenger,NJ,26,94.8,3,52,Online,13628,65,06/30/2026
+ELC-1478,St. Paul Service Center,St. Paul Auto Parts Distribution,FleetFlex,Passenger,MN,19,99.6,1,57,Online,12692,55,06/30/2026
+ELC-1479,Louisville Logistics Center,Louisville Telecom Services,360 CaaS,Rideshare/Passenger,KY,14,96.6,1,28,Online,38926,39,06/30/2026
+ELC-1480,Miami Distribution Hub,Miami Construction Supply,360 CaaS,Bus/Transit,FL,14,97.1,1,56,Online,31301,60,06/30/2026
+ELC-1481,Minneapolis Yard,Minneapolis Grocery Supply,FleetFlex,Light-Duty,MN,20,96.9,0,60,Online,22176,65,06/30/2026
+ELC-1482,Charleston Fleet Center,Charleston Healthcare Network,360 CaaS,Passenger,SC,20,98.1,0,40,Online,15269,64,06/30/2026
+ELC-1483,Minneapolis Charging Hub,Minneapolis Auto Parts Distribution,360 CaaS,Mixed,MN,29,95.9,4,87,Online,23776,18,06/30/2026
+ELC-1484,Cleveland Service Center,Cleveland Beverage Co.,360 CaaS,Rideshare/Passenger,OH,11,95.3,2,44,Online,39746,29,06/30/2026
+ELC-1485,Las Vegas Distribution Hub,Las Vegas Freight Lines,FleetFlex,Bus/Transit,NV,30,91.2,5,120,Online,34386,61,06/30/2026
+ELC-1486,Provo Logistics Center,Provo Telecom Services,FleetFlex,Class 8,UT,5,91.6,3,10,Online,61990,72,06/30/2026
+ELC-1487,Milwaukee Service Center,Milwaukee Grocery Supply,360 CaaS,Light-Duty,WI,14,99.9,0,56,Online,19309,66,06/30/2026
+ELC-1488,Sacramento Depot,Sacramento Courier Services,360 CaaS,Light-Duty,CA,28,97.5,1,112,Online,15242,72,06/30/2026
+ELC-1489,Salt Lake City Charging Hub,Salt Lake City Utility Cooperative,FleetFlex,Rideshare/Passenger,UT,15,98.6,0,30,Online,37139,41,06/30/2026
+ELC-1490,Nashville Yard,Nashville Parcel Delivery,360 CaaS,Passenger,TN,28,96.7,3,112,Online,13147,78,06/30/2026
+ELC-1491,Colorado Springs Logistics Center,Colorado Springs Courier Services,FleetFlex,Light-Duty,CO,7,96.6,2,14,Online,18847,73,06/30/2026
+ELC-1492,San Antonio Distribution Hub,San Antonio Municipal Fleet Services,FleetFlex,Light-Duty,TX,11,91.1,4,22,Online,17847,69,06/30/2026
+ELC-1493,Grand Rapids Distribution Hub,Grand Rapids Distribution,360 CaaS,Class 8,MI,8,98.1,0,24,Online,62187,58,06/30/2026
+ELC-1494,Dayton Distribution Hub,Dayton Parcel Delivery,FleetFlex,Mixed,OH,17,90.4,8,51,Online,15917,33,06/30/2026
+ELC-1495,Richmond Distribution Hub,Richmond Linen & Uniform Services,FleetFlex,Class 8,VA,10,92.5,4,20,Online,48633,59,06/30/2026
+ELC-1496,Baton Rouge Distribution Hub,Baton Rouge Cold Storage Logistics,FleetFlex,Light-Duty,LA,17,93.6,2,34,Online,19215,66,06/30/2026
+ELC-1497,Richmond Charging Hub,Richmond Cold Storage Logistics,FleetFlip,Rideshare/Passenger,VA,5,99.7,2,20,Online,42600,32,06/30/2026
+ELC-1498,Lexington Logistics Center,Lexington Regional Grocery Chain,FleetFlip,Class 8,KY,27,99.8,1,81,Online,64099,66,06/30/2026
+ELC-1499,Columbia Depot,Columbia Logistics,FleetFlip,Bus/Transit,SC,9,98.8,1,27,Online,27192,63,06/30/2026
+ELC-1500,Oklahoma City Service Center,Oklahoma City Equipment Rental,FleetFlip,Passenger,OK,16,99.5,1,64,Online,11909,59,06/30/2026
+ELC-1501,St. Louis Yard,St. Louis Linen & Uniform Services,FleetFlip,Bus/Transit,MO,17,94.3,4,68,Maintenance,27707,67,06/30/2026
+ELC-1502,Philadelphia Fleet Center,Philadelphia Freight Lines,360 CaaS,Passenger,PA,6,93.4,5,24,Online,16308,65,06/30/2026
+ELC-1503,Denver Charging Hub,Denver School District,FleetFlip,Passenger,CO,33,97.7,0,99,Online,11127,71,06/30/2026
+ELC-1504,Colorado Springs Logistics Center,Colorado Springs Waste & Recycling,FleetFlex,Bus/Transit,CO,13,98.9,0,26,Online,22748,69,06/30/2026
+ELC-1505,Detroit Charging Hub,Detroit Beverage Co.,FleetFlip,Bus/Transit,MI,30,89.7,6,90,Online,34093,64,06/30/2026
+ELC-1506,Montgomery Depot,Montgomery Airport Authority,360 CaaS,Light-Duty,AL,31,98.2,0,62,Maintenance,27344,66,06/30/2026
+ELC-1507,Salt Lake City Charging Hub,Salt Lake City Airport Authority,360 CaaS,Rideshare/Passenger,UT,28,94.3,3,84,Online,41803,25,06/30/2026
+ELC-1508,Newark Fleet Center,Newark Courier Services,FleetFlip,Rideshare/Passenger,NJ,27,98.4,1,54,Online,43688,42,06/30/2026
+ELC-1509,Knoxville Logistics Center,Knoxville Cold Storage Logistics,360 CaaS,Bus/Transit,TN,27,89.8,5,108,Online,31485,58,06/30/2026
+ELC-1510,Madison Yard,Madison Grocery Supply,FleetFlip,Passenger,WI,4,92.4,3,16,Maintenance,17851,75,06/30/2026
+ELC-1511,New Orleans Charging Hub,New Orleans Airport Authority,360 CaaS,Class 8,LA,30,97.2,2,90,Maintenance,64301,78,06/30/2026
+ELC-1512,Spokane Yard,Spokane Courier Services,FleetFlex,Class 8,WA,18,91.6,4,36,Online,67576,59,06/30/2026
+ELC-1513,Springfield Distribution Hub,Springfield Municipal Fleet Services,FleetFlex,Rideshare/Passenger,MO,26,89.9,5,78,Online,30748,48,06/30/2026
+ELC-1514,Columbia Charging Hub,Columbia Regional Grocery Chain,FleetFlip,Class 8,SC,29,89,6,87,Online,56290,67,06/30/2026
+ELC-1515,Tampa Charging Hub,Tampa Cold Storage Logistics,FleetFlex,Class 8,FL,8,99.8,1,32,Online,78587,57,06/30/2026
+ELC-1516,Phoenix Yard,Phoenix Auto Parts Distribution,FleetFlip,Bus/Transit,AZ,21,99.5,0,42,Online,22844,69,06/30/2026
+ELC-1517,Knoxville Yard,Knoxville Parcel Delivery,360 CaaS,Light-Duty,TN,11,96.7,1,22,Maintenance,22698,76,06/30/2026
+ELC-1518,Dayton Depot,Dayton Utility Cooperative,FleetFlex,Passenger,OH,30,96.7,1,90,Online,11330,71,06/30/2026
+ELC-1519,Columbus Charging Hub,Columbus Auto Parts Distribution,360 CaaS,Mixed,OH,20,88.9,5,40,Online,20598,50,06/30/2026
+ELC-1520,Kansas City Charging Hub,Kansas City Grocery Supply,FleetFlip,Rideshare/Passenger,MO,7,96.6,1,21,Online,32517,37,06/30/2026
+ELC-1521,New Orleans Distribution Hub,New Orleans Courier Services,360 CaaS,Light-Duty,LA,13,89.6,6,26,Online,22674,69,06/30/2026
+ELC-1522,Milwaukee Logistics Center,Milwaukee Regional Grocery Chain,FleetFlex,Rideshare/Passenger,WI,31,96.5,0,124,Online,39985,33,06/30/2026
+ELC-1523,Lexington Yard,Lexington Linen & Uniform Services,FleetFlex,Rideshare/Passenger,KY,25,98.7,1,100,Online,25770,32,06/30/2026
+ELC-1524,Norfolk Charging Hub,Norfolk Grocery Supply,FleetFlip,Mixed,VA,33,91.1,5,66,Maintenance,17150,28,06/30/2026
+ELC-1525,Sacramento Charging Hub,Sacramento Municipal Fleet Services,FleetFlex,Mixed,CA,23,90.9,7,69,Online,15911,38,06/30/2026
+ELC-1526,Cleveland Yard,Cleveland Distribution,FleetFlex,Rideshare/Passenger,OH,19,99.9,0,38,Online,28918,50,06/30/2026
+ELC-1527,Charleston Depot,Charleston Regional Grocery Chain,FleetFlip,Bus/Transit,SC,23,99,1,46,Online,26341,82,06/30/2026
+ELC-1528,Kansas City Charging Hub,Kansas City Freight Lines,FleetFlip,Rideshare/Passenger,MO,18,90.7,5,72,Online,42530,46,06/30/2026
+ELC-1529,Lexington Service Center,Lexington Auto Parts Distribution,360 CaaS,Light-Duty,KY,33,98.7,0,66,Online,15612,63,06/30/2026
+ELC-1530,Toledo Distribution Hub,Toledo Regional Grocery Chain,FleetFlip,Light-Duty,OH,23,92,3,92,Online,16404,64,06/30/2026
+ELC-1531,Spokane Logistics Center,Spokane Waste & Recycling,FleetFlip,Mixed,WA,7,90.3,4,14,Online,17212,24,06/30/2026
+ELC-1532,Columbia Service Center,Columbia Telecom Services,360 CaaS,Rideshare/Passenger,SC,30,98.4,2,90,Online,32956,47,06/30/2026
+ELC-1533,Baltimore Yard,Baltimore Beverage Co.,FleetFlex,Mixed,MD,28,98.1,0,84,Online,28285,36,06/30/2026
+ELC-1534,Lexington Logistics Center,Lexington Healthcare Network,FleetFlip,Class 8,KY,12,95.5,1,36,Online,62206,70,06/30/2026
+ELC-1535,Austin Yard,Austin Linen & Uniform Services,FleetFlex,Mixed,TX,13,87.8,6,52,Online,27201,39,06/30/2026
+ELC-1536,Portland Service Center,Portland Regional Grocery Chain,FleetFlex,Light-Duty,OR,4,99.6,2,8,Online,15644,57,06/30/2026
+ELC-1537,Chicago Distribution Hub,Chicago Telecom Services,FleetFlex,Passenger,IL,23,91.9,3,69,Online,12326,62,06/30/2026
+ELC-1538,Denver Charging Hub,Denver Regional Grocery Chain,FleetFlex,Mixed,CO,19,98.1,1,38,Maintenance,27367,27,06/30/2026
+ELC-1539,Tulsa Service Center,Tulsa Freight Lines,FleetFlip,Mixed,OK,24,90.3,4,72,Online,18928,39,06/30/2026
+ELC-1540,Portland Depot,Portland Utility Cooperative,360 CaaS,Passenger,OR,12,99.9,1,48,Online,17128,84,06/30/2026
+ELC-1541,Springfield Depot,Springfield Municipal Fleet Services,FleetFlip,Class 8,IL,25,88.7,7,75,Online,61439,56,06/30/2026
+ELC-1542,Las Vegas Service Center,Las Vegas Parcel Delivery,FleetFlex,Light-Duty,NV,8,94.5,4,24,Online,22809,79,06/30/2026
+ELC-1543,Allentown Service Center,Allentown Cold Storage Logistics,FleetFlip,Bus/Transit,PA,24,97.6,2,72,Online,34318,77,06/30/2026
+ELC-1544,Indianapolis Yard,Indianapolis Auto Parts Distribution,FleetFlip,Rideshare/Passenger,IN,8,93.5,2,32,Online,42785,41,06/30/2026
+ELC-1545,Boston Depot,Boston Cold Storage Logistics,FleetFlip,Light-Duty,MA,33,94.8,0,132,Online,17146,82,06/30/2026
+ELC-1546,Cincinnati Yard,Cincinnati Linen & Uniform Services,FleetFlex,Rideshare/Passenger,OH,26,98.6,0,104,Online,39203,28,06/30/2026
+ELC-1547,Spokane Fleet Center,Spokane Beverage Co.,FleetFlex,Class 8,WA,24,99.9,0,72,Maintenance,52243,86,06/30/2026
+ELC-1548,Baltimore Charging Hub,Baltimore Regional Grocery Chain,360 CaaS,Rideshare/Passenger,MD,28,99.8,0,56,Online,28696,41,06/30/2026
+ELC-1549,Los Angeles Yard,Los Angeles Grocery Supply,FleetFlip,Light-Duty,CA,17,95.5,2,68,Online,18496,64,06/30/2026
+ELC-1550,Durham Distribution Hub,Durham Logistics,FleetFlex,Class 8,NC,20,93.5,3,40,Online,46052,55,06/30/2026
+ELC-1551,Baton Rouge Yard,Baton Rouge Transit Authority,FleetFlip,Class 8,LA,20,95.3,4,40,Online,79513,66,06/30/2026
+ELC-1552,Las Vegas Logistics Center,Las Vegas Food Service Distribution,FleetFlip,Mixed,NV,11,97.4,0,44,Online,21953,50,06/30/2026
+ELC-1553,Oakland Yard,Oakland Logistics,FleetFlex,Light-Duty,CA,8,91.6,6,32,Online,22536,65,06/30/2026
+ELC-1554,Minneapolis Distribution Hub,Minneapolis Construction Supply,FleetFlex,Bus/Transit,MN,19,98.4,0,57,Online,25079,65,06/30/2026
+ELC-1555,Minneapolis Fleet Center,Minneapolis Municipal Fleet Services,360 CaaS,Class 8,MN,16,95.5,1,64,Online,52032,81,06/30/2026
+ELC-1556,St. Louis Fleet Center,St. Louis Food Service Distribution,FleetFlex,Bus/Transit,MO,21,95.1,3,84,Online,23816,59,06/30/2026
+ELC-1557,Jacksonville Service Center,Jacksonville Beverage Co.,FleetFlex,Light-Duty,FL,26,98.2,1,104,Online,26316,80,06/30/2026
+ELC-1558,Minneapolis Charging Hub,Minneapolis Municipal Fleet Services,FleetFlip,Rideshare/Passenger,MN,4,99.6,0,12,Online,38161,45,06/30/2026
+ELC-1559,Madison Service Center,Madison Transit Authority,FleetFlip,Mixed,WI,4,97.3,1,16,Online,28952,43,06/30/2026
+ELC-1560,Baton Rouge Charging Hub,Baton Rouge Food Service Distribution,FleetFlip,Mixed,LA,18,91.4,5,72,Online,19680,25,06/30/2026
+ELC-1561,Charlotte Fleet Center,Charlotte Auto Parts Distribution,FleetFlex,Bus/Transit,NC,32,99.6,3,96,Online,25731,75,06/30/2026
+ELC-1562,St. Paul Logistics Center,St. Paul Waste & Recycling,FleetFlex,Passenger,MN,28,93.2,3,84,Online,10550,78,06/30/2026
+ELC-1563,New Orleans Distribution Hub,New Orleans Freight Lines,FleetFlex,Passenger,LA,35,93.7,4,70,Maintenance,10620,67,06/30/2026
+ELC-1564,Phoenix Charging Hub,Phoenix School District,360 CaaS,Passenger,AZ,18,95.5,0,36,Online,17757,64,06/30/2026

@@ -1,0 +1,151 @@
+depot_id,site_name,customer,fleet_type,region,total_chargers,uptime_pct,open_issues,vehicles_served,status,avg_annual_miles_per_vehicle,pct_offpeak_charging,log_date
+INS-001,Revel Rideshare Hub – Brooklyn,Revel,Rideshare/Passenger,NY,18,95.6,1,65,Active,35611,27,06/30/2026
+INS-002,Revel Rideshare Hub – Queens,Revel,Rideshare/Passenger,NY,14,95.9,1,48,Active,37937,21,06/30/2026
+INS-003,PowerUp Point – Kansas City,Multi-Fleet Open Hub,Mixed,MO,12,99.2,0,80,Active,16186,24,06/30/2026
+INS-004,PowerUp Point – Pittsburgh,Multi-Fleet Open Hub,Mixed,PA,8,95.3,0,41,In Development,20991,21,06/30/2026
+INS-005,Atlanta Municipal Fleet Yard,City of Atlanta,Light-Duty,GA,10,92.9,3,30,Active,23313,68,06/30/2026
+INS-006,Houston Logistics Hub,Ferguson Enterprises,Light-Duty,TX,12,95.9,1,34,Active,15614,60,06/30/2026
+INS-007,Denver Transit Yard,Regional Transportation District,Bus/Transit,CO,15,89.7,6,40,Active,27104,81,06/30/2026
+INS-008,Charlotte Depot North,Salem Leasing Corporation,Light-Duty,NC,6,97.7,3,15,Active,16144,70,06/30/2026
+INS-009,Phoenix Service Yard,Comcast,Light-Duty,AZ,8,94.3,3,22,Active,16486,82,06/30/2026
+INS-010,Newark Distribution Center,P&G,Class 8,NJ,20,97.7,1,52,Active,43873,62,06/30/2026
+INS-011,Baltimore Distribution Hub,Baltimore Food Service Distribution,Light-Duty,MD,23,96.4,2,69,Active,20924,74,06/30/2026
+INS-012,Denver Service Center,Denver Parcel Delivery,Light-Duty,CO,22,98.8,1,66,Active,19717,59,06/30/2026
+INS-013,Macon Fleet Center,Macon Transit Authority,Passenger,GA,8,99.4,0,32,Active,12786,77,06/30/2026
+INS-014,Madison Distribution Hub,Madison Food Service Distribution,Bus/Transit,WI,6,94.5,2,12,In Development,20994,74,06/30/2026
+INS-015,St. Paul Fleet Center,St. Paul Equipment Rental,Mixed,MN,16,98.2,2,48,Active,23088,21,06/30/2026
+INS-016,Tucson Logistics Center,Tucson School District,Mixed,AZ,11,92,2,33,Active,16320,28,06/30/2026
+INS-017,Trenton Service Center,Trenton Construction Supply,Passenger,NJ,8,99,1,24,Active,17845,69,06/30/2026
+INS-018,Charlotte Distribution Hub,Charlotte Transit Authority,Class 8,NC,11,86.7,6,44,Active,57219,73,06/30/2026
+INS-019,Dallas Fleet Center,Dallas Airport Authority,Rideshare/Passenger,TX,15,92.8,4,30,Active,39963,43,06/30/2026
+INS-020,Tacoma Yard,Tacoma Healthcare Network,Light-Duty,WA,19,92.6,2,76,Active,18420,83,06/30/2026
+INS-021,Nashville Service Center,Nashville Telecom Services,Rideshare/Passenger,TN,5,99.9,1,20,Active,27304,31,06/30/2026
+INS-022,Madison Distribution Hub,Madison School District,Mixed,WI,12,99.2,1,36,Active,16889,49,06/30/2026
+INS-023,Trenton Logistics Center,Trenton Courier Services,Passenger,NJ,6,99.1,1,24,Active,14229,56,06/30/2026
+INS-024,Mesa Logistics Center,Mesa Utility Cooperative,Class 8,AZ,26,99.9,0,104,In Development,45964,71,06/30/2026
+INS-025,Norfolk Yard,Norfolk Transit Authority,Passenger,VA,28,96.9,0,112,Active,16603,70,06/30/2026
+INS-026,Tulsa Depot,Tulsa Parcel Delivery,Class 8,OK,20,99.4,1,60,Active,58311,85,06/30/2026
+INS-027,Queens Service Center,Queens Auto Parts Distribution,Passenger,NY,18,97.2,1,54,In Development,11806,61,06/30/2026
+INS-028,Aurora Fleet Center,Aurora Grocery Supply,Passenger,CO,10,89.1,5,30,Active,13927,77,06/30/2026
+INS-029,New Orleans Distribution Hub,New Orleans Regional Grocery Chain,Light-Duty,LA,16,96.4,3,48,Active,16421,80,06/30/2026
+INS-030,Trenton Depot,Trenton Beverage Co.,Mixed,NJ,9,89,6,18,In Development,24679,47,06/30/2026
+INS-031,New Orleans Depot,New Orleans Auto Parts Distribution,Rideshare/Passenger,LA,19,93.8,3,76,Active,28367,26,06/30/2026
+INS-032,Detroit Yard,Detroit Grocery Supply,Light-Duty,MI,12,92.6,4,24,Active,19249,81,06/30/2026
+INS-033,Oklahoma City Fleet Center,Oklahoma City Distribution,Mixed,OK,15,99.5,0,60,Active,23713,27,06/30/2026
+INS-034,Arlington Logistics Center,Arlington Logistics,Bus/Transit,VA,28,91.3,3,56,Active,22823,64,06/30/2026
+INS-035,Springfield Logistics Center,Springfield Waste & Recycling,Rideshare/Passenger,MO,5,92.2,6,20,Active,43359,21,06/30/2026
+INS-036,Denver Fleet Center,Denver Freight Lines,Light-Duty,CO,28,98.4,0,56,Active,27451,59,06/30/2026
+INS-037,Trenton Logistics Center,Trenton Auto Parts Distribution,Rideshare/Passenger,NJ,23,89.8,5,69,Active,41638,33,06/30/2026
+INS-038,Charleston Depot,Charleston Construction Supply,Class 8,SC,30,94.1,2,90,Active,68974,75,06/30/2026
+INS-039,Cincinnati Charging Hub,Cincinnati Airport Authority,Light-Duty,OH,10,91.6,3,20,In Development,17342,71,06/30/2026
+INS-040,Las Vegas Distribution Hub,Las Vegas Municipal Fleet Services,Class 8,NV,27,88.2,7,54,Active,54661,65,06/30/2026
+INS-041,Charleston Depot,Charleston Linen & Uniform Services,Bus/Transit,SC,14,91.6,4,28,Active,29077,84,06/30/2026
+INS-042,Jersey City Fleet Center,Jersey City Logistics,Bus/Transit,NJ,14,96.7,3,56,Active,21848,69,06/30/2026
+INS-043,Las Vegas Logistics Center,Las Vegas Beverage Co.,Passenger,NV,12,99.9,2,36,Active,16959,71,06/30/2026
+INS-044,Seattle Depot,Seattle Construction Supply,Rideshare/Passenger,WA,22,97.5,3,66,Active,26885,29,06/30/2026
+INS-045,Detroit Depot,Detroit Freight Lines,Light-Duty,MI,24,98.4,1,96,Active,16993,84,06/30/2026
+INS-046,Austin Fleet Center,Austin Construction Supply,Bus/Transit,TX,12,96.3,2,48,Active,21793,65,06/30/2026
+INS-047,Brooklyn Fleet Center,Brooklyn Transit Authority,Class 8,NY,13,91.5,5,26,Active,57728,77,06/30/2026
+INS-048,New Orleans Fleet Center,New Orleans Freight Lines,Light-Duty,LA,4,93.7,4,8,Active,23425,85,06/30/2026
+INS-049,Aurora Distribution Hub,Aurora Waste & Recycling,Mixed,CO,30,91.2,5,120,Active,26267,31,06/30/2026
+INS-050,Aurora Service Center,Aurora Grocery Supply,Mixed,CO,27,90.9,6,108,Active,28713,26,06/30/2026
+INS-051,Houston Logistics Center,Houston Cold Storage Logistics,Mixed,TX,12,94.2,4,48,Active,24810,33,06/30/2026
+INS-052,Charleston Depot,Charleston Distribution,Bus/Transit,SC,9,95.6,1,18,Active,25966,76,06/30/2026
+INS-053,Annapolis Distribution Hub,Annapolis Parcel Delivery,Light-Duty,MD,13,94.5,0,39,Active,23237,67,06/30/2026
+INS-054,Colorado Springs Fleet Center,Colorado Springs Logistics,Light-Duty,CO,12,97.2,0,24,Active,21454,56,06/30/2026
+INS-055,Philadelphia Charging Hub,Philadelphia Cold Storage Logistics,Class 8,PA,6,90.9,5,12,Active,61373,86,06/30/2026
+INS-056,Greensboro Charging Hub,Greensboro Auto Parts Distribution,Mixed,NC,8,92,3,16,Active,27023,50,06/30/2026
+INS-057,Charlotte Depot,Charlotte Regional Grocery Chain,Rideshare/Passenger,NC,29,99.1,1,116,Active,26371,26,06/30/2026
+INS-058,St. Paul Charging Hub,St. Paul Waste & Recycling,Bus/Transit,MN,30,91.5,4,90,Active,30260,70,06/30/2026
+INS-059,St. Louis Fleet Center,St. Louis Logistics,Bus/Transit,MO,29,98.8,3,116,Active,32218,85,06/30/2026
+INS-060,Brooklyn Charging Hub,Brooklyn Freight Lines,Class 8,NY,27,98.8,1,54,Active,72371,79,06/30/2026
+INS-061,Toledo Yard,Toledo Regional Grocery Chain,Passenger,OH,28,99.9,0,56,Active,12080,74,06/30/2026
+INS-062,Milwaukee Charging Hub,Milwaukee Logistics,Bus/Transit,WI,5,96.4,1,15,Active,31340,68,06/30/2026
+INS-063,Eugene Fleet Center,Eugene Equipment Rental,Mixed,OR,20,94.3,3,40,In Development,20106,23,06/30/2026
+INS-064,Worcester Distribution Hub,Worcester Logistics,Passenger,MA,18,99.4,2,36,Active,13169,68,06/30/2026
+INS-065,Boston Logistics Center,Boston Beverage Co.,Rideshare/Passenger,MA,6,98.5,2,18,Active,28692,41,06/30/2026
+INS-066,Aurora Distribution Hub,Aurora Courier Services,Bus/Transit,CO,4,99.1,0,8,Active,26642,74,06/30/2026
+INS-067,Birmingham Service Center,Birmingham Airport Authority,Passenger,AL,16,93.2,4,32,Active,10983,67,06/30/2026
+INS-068,Columbia Logistics Center,Columbia Equipment Rental,Passenger,SC,15,99.7,0,30,Active,12954,82,06/30/2026
+INS-069,Lexington Yard,Lexington Distribution,Passenger,KY,7,99.9,1,28,In Development,13573,87,06/30/2026
+INS-070,Chicago Fleet Center,Chicago Utility Cooperative,Bus/Transit,IL,4,96.1,1,16,Active,31789,60,06/30/2026
+INS-071,Bakersfield Fleet Center,Bakersfield Airport Authority,Bus/Transit,CA,23,95.8,4,69,Active,22797,85,06/30/2026
+INS-072,Grand Rapids Charging Hub,Grand Rapids Equipment Rental,Passenger,MI,12,89.1,7,48,Active,13327,70,06/30/2026
+INS-073,Philadelphia Logistics Center,Philadelphia Construction Supply,Mixed,PA,16,99.9,1,32,Active,24017,32,06/30/2026
+INS-074,Trenton Depot,Trenton Municipal Fleet Services,Bus/Transit,NJ,8,98.8,0,32,Active,25602,60,06/30/2026
+INS-075,Chicago Distribution Hub,Chicago Utility Cooperative,Passenger,IL,29,88.2,8,116,Active,16109,88,06/30/2026
+INS-076,Tucson Fleet Center,Tucson Freight Lines,Passenger,AZ,28,91.4,4,56,Active,11031,87,06/30/2026
+INS-077,Arlington Service Center,Arlington Grocery Supply,Light-Duty,VA,12,98.7,0,48,Active,17084,57,06/30/2026
+INS-078,Lansing Logistics Center,Lansing Courier Services,Rideshare/Passenger,MI,19,92,2,38,Active,39711,33,06/30/2026
+INS-079,New Orleans Logistics Center,New Orleans Parcel Delivery,Class 8,LA,8,88.4,5,32,Active,45570,57,06/30/2026
+INS-080,Dallas Yard,Dallas Parcel Delivery,Rideshare/Passenger,TX,5,94.1,2,20,Active,42309,45,06/30/2026
+INS-081,Columbia Logistics Center,Columbia Waste & Recycling,Light-Duty,SC,13,90.3,5,39,Active,15171,74,06/30/2026
+INS-082,Trenton Yard,Trenton Telecom Services,Mixed,NJ,30,93.7,2,60,Active,15479,44,06/30/2026
+INS-083,Charleston Yard,Charleston Distribution,Light-Duty,SC,10,89.2,5,30,Active,21065,69,06/30/2026
+INS-084,Kansas City Yard,Kansas City Telecom Services,Mixed,MO,17,94.5,2,51,Active,28059,36,06/30/2026
+INS-085,Birmingham Service Center,Birmingham Grocery Supply,Bus/Transit,AL,10,91.8,5,20,Active,21785,86,06/30/2026
+INS-086,Milwaukee Fleet Center,Milwaukee Parcel Delivery,Bus/Transit,WI,17,99.9,0,68,Active,26446,58,06/30/2026
+INS-087,Phoenix Charging Hub,Phoenix Auto Parts Distribution,Class 8,AZ,17,95.5,2,51,Active,47419,60,06/30/2026
+INS-088,Boston Charging Hub,Boston Telecom Services,Class 8,MA,9,96,1,36,In Development,42090,74,06/30/2026
+INS-089,Eugene Distribution Hub,Eugene Utility Cooperative,Passenger,OR,18,95.8,1,54,Active,14596,68,06/30/2026
+INS-090,Tacoma Yard,Tacoma Equipment Rental,Bus/Transit,WA,6,95.3,1,12,Active,28872,83,06/30/2026
+INS-091,Tucson Depot,Tucson Utility Cooperative,Mixed,AZ,19,99.5,1,76,Active,15571,47,06/30/2026
+INS-092,Columbus Service Center,Columbus Freight Lines,Class 8,OH,27,96.4,1,54,Active,57846,76,06/30/2026
+INS-093,Milwaukee Logistics Center,Milwaukee Freight Lines,Mixed,WI,26,92.1,2,78,Active,15397,32,06/30/2026
+INS-094,Macon Logistics Center,Macon Municipal Fleet Services,Bus/Transit,GA,29,87.1,6,87,In Development,22174,86,06/30/2026
+INS-095,Nashville Logistics Center,Nashville Equipment Rental,Mixed,TN,28,96.9,1,84,Active,23386,30,06/30/2026
+INS-096,Seattle Fleet Center,Seattle Parcel Delivery,Bus/Transit,WA,6,97.8,1,24,Active,22632,82,06/30/2026
+INS-097,Las Vegas Distribution Hub,Las Vegas Beverage Co.,Passenger,NV,23,96.3,3,69,In Development,11918,63,06/30/2026
+INS-098,Grand Rapids Logistics Center,Grand Rapids Auto Parts Distribution,Mixed,MI,11,96.3,2,44,Active,27775,36,06/30/2026
+INS-099,Philadelphia Yard,Philadelphia Food Service Distribution,Passenger,PA,15,94.2,2,45,Active,11256,73,06/30/2026
+INS-100,Las Vegas Fleet Center,Las Vegas Telecom Services,Light-Duty,NV,16,99.3,0,48,In Development,25643,61,06/30/2026
+INS-101,St. Paul Depot,St. Paul Distribution,Light-Duty,MN,4,87.4,5,12,In Development,18815,62,06/30/2026
+INS-102,Sacramento Logistics Center,Sacramento Auto Parts Distribution,Rideshare/Passenger,CA,10,97.5,3,20,Active,39716,34,06/30/2026
+INS-103,Louisville Yard,Louisville Waste & Recycling,Mixed,KY,23,93.1,2,46,Active,18341,34,06/30/2026
+INS-104,San Diego Distribution Hub,San Diego Cold Storage Logistics,Class 8,CA,30,91.7,6,60,Active,52133,74,06/30/2026
+INS-105,Cincinnati Yard,Cincinnati Distribution,Bus/Transit,OH,21,91.4,6,63,Active,30699,65,06/30/2026
+INS-106,Spokane Depot,Spokane Freight Lines,Bus/Transit,WA,13,95.5,0,52,Active,32211,77,06/30/2026
+INS-107,Grand Rapids Distribution Hub,Grand Rapids Logistics,Passenger,MI,24,96.8,2,48,In Development,13471,62,06/30/2026
+INS-108,Oklahoma City Yard,Oklahoma City Healthcare Network,Rideshare/Passenger,OK,15,99.9,3,45,Active,26693,27,06/30/2026
+INS-109,St. Paul Service Center,St. Paul Beverage Co.,Rideshare/Passenger,MN,23,99.9,0,46,Active,42077,28,06/30/2026
+INS-110,Boston Logistics Center,Boston Waste & Recycling,Bus/Transit,MA,19,91.4,3,38,Active,34955,85,06/30/2026
+INS-111,Chicago Yard,Chicago Auto Parts Distribution,Mixed,IL,16,99.9,3,64,Active,25175,43,06/30/2026
+INS-112,Milwaukee Fleet Center,Milwaukee Courier Services,Class 8,WI,22,99,1,44,Active,65138,77,06/30/2026
+INS-113,Savannah Charging Hub,Savannah Parcel Delivery,Mixed,GA,30,95.9,1,120,Active,25942,38,06/30/2026
+INS-114,Macon Charging Hub,Macon Auto Parts Distribution,Bus/Transit,GA,21,94.1,4,84,Active,25049,70,06/30/2026
+INS-115,Grand Rapids Distribution Hub,Grand Rapids Regional Grocery Chain,Passenger,MI,18,92.7,3,36,Active,11927,83,06/30/2026
+INS-116,Lexington Service Center,Lexington Transit Authority,Bus/Transit,KY,16,95.1,3,32,Active,25985,60,06/30/2026
+INS-117,Baton Rouge Service Center,Baton Rouge Linen & Uniform Services,Rideshare/Passenger,LA,25,99.9,0,50,In Development,26778,50,06/30/2026
+INS-118,Reno Charging Hub,Reno Cold Storage Logistics,Class 8,NV,4,96.4,0,8,In Development,52694,63,06/30/2026
+INS-119,Reno Fleet Center,Reno Equipment Rental,Class 8,NV,25,97.8,1,50,Active,50404,75,06/30/2026
+INS-120,Reno Distribution Hub,Reno Municipal Fleet Services,Class 8,NV,12,85.5,8,48,In Development,78789,71,06/30/2026
+INS-121,Milwaukee Charging Hub,Milwaukee Telecom Services,Passenger,WI,5,97.5,2,20,In Development,17335,79,06/30/2026
+INS-122,Knoxville Logistics Center,Knoxville Waste & Recycling,Rideshare/Passenger,TN,5,99.1,1,20,Active,43192,24,06/30/2026
+INS-123,Rochester Service Center,Rochester Cold Storage Logistics,Bus/Transit,NY,27,95.7,2,81,Active,32527,60,06/30/2026
+INS-124,Newark Fleet Center,Newark Transit Authority,Rideshare/Passenger,NJ,27,91.8,3,54,Active,35160,38,06/30/2026
+INS-125,Birmingham Depot,Birmingham Distribution,Class 8,AL,8,94.1,1,24,Active,72007,69,06/30/2026
+INS-126,Milwaukee Depot,Milwaukee Logistics,Light-Duty,WI,4,99.4,1,16,Active,23750,69,06/30/2026
+INS-127,Lansing Depot,Lansing Equipment Rental,Rideshare/Passenger,MI,8,96.2,2,24,Active,29892,46,06/30/2026
+INS-128,Atlanta Service Center,Atlanta Cold Storage Logistics,Class 8,GA,25,99.9,1,75,Active,43678,77,06/30/2026
+INS-129,Madison Fleet Center,Madison Auto Parts Distribution,Rideshare/Passenger,WI,27,92.2,2,54,Active,38303,29,06/30/2026
+INS-130,Denver Yard,Denver Distribution,Light-Duty,CO,4,97.3,3,16,Active,21769,67,06/30/2026
+INS-131,Arlington Depot,Arlington Cold Storage Logistics,Rideshare/Passenger,VA,24,90.7,5,48,Active,26588,48,06/30/2026
+INS-132,Columbia Charging Hub,Columbia Healthcare Network,Bus/Transit,SC,27,89.4,4,81,Active,22873,69,06/30/2026
+INS-133,Augusta Service Center,Augusta Parcel Delivery,Mixed,GA,5,99.4,1,20,In Development,19357,45,06/30/2026
+INS-134,Eugene Depot,Eugene Equipment Rental,Mixed,OR,10,99.9,1,20,Active,19265,33,06/30/2026
+INS-135,Oklahoma City Logistics Center,Oklahoma City Transit Authority,Mixed,OK,14,97.3,1,56,Active,22735,18,06/30/2026
+INS-136,Salt Lake City Logistics Center,Salt Lake City Airport Authority,Mixed,UT,11,98.2,1,44,Active,21415,22,06/30/2026
+INS-137,Indianapolis Yard,Indianapolis School District,Light-Duty,IN,4,99.5,0,8,Active,15505,57,06/30/2026
+INS-138,Charlotte Logistics Center,Charlotte Beverage Co.,Mixed,NC,5,99.2,1,10,Active,18265,22,06/30/2026
+INS-139,Reno Logistics Center,Reno Waste & Recycling,Class 8,NV,10,95.6,1,40,Active,71268,61,06/30/2026
+INS-140,Charlotte Service Center,Charlotte Cold Storage Logistics,Class 8,NC,13,95.8,0,39,Active,62996,71,06/30/2026
+INS-141,Worcester Logistics Center,Worcester Distribution,Mixed,MA,28,92,3,112,Active,25129,19,06/30/2026
+INS-142,Baton Rouge Charging Hub,Baton Rouge Logistics,Bus/Transit,LA,20,98.8,3,40,Active,28812,68,06/30/2026
+INS-143,Columbia Depot,Columbia Food Service Distribution,Passenger,SC,9,89.6,4,27,Active,12849,86,06/30/2026
+INS-144,Macon Fleet Center,Macon Transit Authority,Bus/Transit,GA,22,98.2,2,66,In Development,29470,65,06/30/2026
+INS-145,Pittsburgh Charging Hub,Pittsburgh Parcel Delivery,Bus/Transit,PA,9,99.7,0,18,Active,30288,75,06/30/2026
+INS-146,Miami Charging Hub,Miami Healthcare Network,Bus/Transit,FL,27,98.5,3,54,Active,26094,68,06/30/2026
+INS-147,Philadelphia Distribution Hub,Philadelphia Airport Authority,Rideshare/Passenger,PA,20,98.3,0,80,Active,42417,20,06/30/2026
+INS-148,Tampa Charging Hub,Tampa Linen & Uniform Services,Class 8,FL,30,99.9,1,90,Active,51111,84,06/30/2026
+INS-149,Jersey City Yard,Jersey City Freight Lines,Rideshare/Passenger,NJ,11,97.6,2,44,Active,34879,27,06/30/2026
+INS-150,Birmingham Yard,Birmingham Parcel Delivery,Mixed,AL,14,97.3,0,56,Active,20375,30,06/30/2026
